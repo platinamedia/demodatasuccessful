@@ -3,8 +3,8 @@
     "products": [
         {
           "id": 0,
-          "title": "",
-          "image": "",
+          "title": "Новый продукт",
+          "image": "ссылка",
           "price": 1200,
           "sale_price": null
         }
