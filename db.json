@@ -95,12 +95,122 @@
     "story": [
         {
           "id": 0,
-          "image": "",
+          "preview_image": "",
           "viewed": true,
           "is_bookmark": true,
-          "align": "center",
-          "link": "link",
-          "_comment": "align: top, bottom, center"
+          "position": "top",
+          "slides":[
+            {  
+                "id":1,
+                "image":"https://bxtest.dfa-media.ru/udachny/stories/1.png",
+                "title":"",
+                "text":"",
+                "button_link":"",
+                "text_position":"",
+                "is_button":false
+            },
+            {  
+                "id":2,
+                "image":"https://bxtest.dfa-media.ru/udachny/stories/2.png",
+                "title":"",
+                "text":"",
+                "button_link":"",
+                "text_position":"",
+                "is_button":true
+            },
+            {  
+                "id":3,
+                "image":"https://bxtest.dfa-media.ru/udachny/stories/3.png",
+                "title":"",
+                "text":"",
+                "button_link":"",
+                "text_position":"",
+                "is_button":true
+            },
+            {  
+                "id":4,
+                "image":"https://bxtest.dfa-media.ru/udachny/stories/4.png",
+                "title":"",
+                "text":"",
+                "button_link":"",
+                "text_position":"",
+                "is_button":true
+            },
+            {  
+                "id":5,
+                "image":"https://bxtest.dfa-media.ru/udachny/stories/5.png",
+                "title":"",
+                "text":"",
+                "button_link":"",
+                "text_position":"",
+                "is_button":true
+            },
+            {  
+                "id":6,
+                "image":"https://bxtest.dfa-media.ru/udachny/stories/6.png",
+                "title":"",
+                "text":"",
+                "button_link":"",
+                "text_position":"",
+                "is_button":true
+            }
+
+            
+          ],
+          "last_page":[
+            {
+                "title":"",
+                "desc":"",
+                "video_link":"",
+                "preview":"",
+                "goods":[
+                    {
+                        "id": 2,
+                        "title": "Грудка индейки фермерская СВ «Мясная...",
+                        "image": "https://bxtest.dfa-media.ru/udachny/grudka.png",
+                        "price": 855,
+                        "sale_price": null,
+                        "unit":0,
+                        "unit_text":"кг",
+                        "is_hit":true,
+                        "is_season":true
+                      },
+                      {
+                        "id": 3,
+                        "title": "Морской окунь филе на коже (свежемороженый)",
+                        "image": "https://bxtest.dfa-media.ru/udachny/123123.png",
+                      "price": 579,
+                      "sale_price": null,
+                      "unit":0,
+                      "unit_text":"кг",
+                      "is_hit":true,
+                      "is_season":true
+                      },
+                      {
+                        "id": 4,
+                        "title": "Минтай свежемороженый без головы",
+                        "image": "https://bxtest.dfa-media.ru/udachny/mintai.png",
+                      "price": 255,
+                      "sale_price": null,
+                      "unit":0,
+                      "unit_text":"кг",
+                      "is_hit":true,
+                      "is_season":true
+                      },
+                      {
+                        "id": 5,
+                        "title": "Сыр Брынза из козьего молока 50%, 100 г ",
+                        "image": "https://bxtest.dfa-media.ru/udachny/cheese.png",
+                      "price": 290,
+                      "sale_price": 399,
+                      "unit":1,
+                      "unit_text":"шт",
+                      "is_hit":true,
+                      "is_season":true
+                      }
+                ]
+            }
+          ]
         }
       ]
   }
