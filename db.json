@@ -1,10 +1,15 @@
 {
     "banners": [
         {
-          "id": 0,
-          "image": "",
+          "id": 1,
+          "image": "https://bxtest.dfa-media.ru/udachny/banner_sep.png",
           "link": ""
-        }
+        },
+        {
+            "id": 2,
+            "image": "https://bxtest.dfa-media.ru/udachny/banner_sep.png",
+            "link": ""
+          }
       ],
     "products": [
         {
@@ -63,7 +68,8 @@
           "value": "-200p",
           "promo_code": "LETO10",
           "visible_text_code":"Купон на первую покупку",
-          "background_url": "https://bxtest.dfa-media.ru/udachny/first_sale.png"
+          "background_url": "https://bxtest.dfa-media.ru/udachny/first_sale.png",
+          "type":"fresh_green_price"
         },
         {
             "id": 2,
@@ -72,7 +78,8 @@
             "value": "-300р",
             "promo_code": "EDEMZAGOROD23",
             "visible_text_code":"EDEMZAGOROD23",
-            "background_url": "https://bxtest.dfa-media.ru/udachny/coupon_fresh.png"
+            "background_url": "https://bxtest.dfa-media.ru/udachny/coupon_fresh.png",
+            "type":"crimson_price"
           },
           {
             "id": 2,
@@ -81,7 +88,8 @@
             "value": "300 баллов",
             "promo_code": "SUMMER2023",
             "visible_text_code":"SUMMER2023",
-            "background_url": "https://bxtest.dfa-media.ru/udachny/300ball.png"
+            "background_url": "https://bxtest.dfa-media.ru/udachny/300ball.png",
+            "type":"points"
           }
       ],
     "story": [
