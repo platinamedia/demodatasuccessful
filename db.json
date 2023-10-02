@@ -33,6 +33,24 @@
           "sale_price": null,
           "unit":0,
           "unit_text":"кг"
+          },
+          {
+            "id": 4,
+            "title": "Минтай свежемороженый без головы",
+            "image": "https://drive.google.com/file/d/1SMgbqbtHseDQ5pRbDimRO16cD56p0EvZ/view?usp=sharing",
+          "price": 255,
+          "sale_price": null,
+          "unit":0,
+          "unit_text":"кг"
+          },
+          {
+            "id": 5,
+            "title": "Сыр Брынза из козьего молока 50%, 100 г ",
+            "image": "https://drive.google.com/file/d/1rez6U5N4Q8UZz5h0HolIv73umHsEm8AQ/view?usp=sharing",
+          "price": 290,
+          "sale_price": 399,
+          "unit":1,
+          "unit_text":"шт"
           }
 
         
