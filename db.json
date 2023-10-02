@@ -1,10 +1,16 @@
 {
-   
+    "banners": [
+        {
+          "id": 0,
+          "image": "",
+          "link": ""
+        }
+      ],
     "products": [
         {
           "id": 0,
-          "title": "Новый продукт",
-          "image": "ссылка",
+          "title": "",
+          "image": "",
           "price": 1200,
           "sale_price": null
         }
