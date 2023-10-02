@@ -10,7 +10,7 @@
         {
           "id": 1,
           "title": "Стейк тунца свежемороженый (упаковка 500 г)",
-          "image": "https://drive.google.com/file/d/1bvutEPhNy4u9CCFsmt7N-ojxLpiUxBPX/view",
+          "image": "https://bxtest.dfa-media.ru/udachny/img.png",
           "price": 290,
           "sale_price": 390,
           "unit":1,
@@ -19,7 +19,7 @@
         {
             "id": 2,
             "title": "Грудка индейки фермерская СВ «Мясная...",
-            "image": "https://drive.google.com/file/d/1Xsul-PJCSOiSfwiysN4UN3--DunfsuJH/view?usp=drive_link",
+            "image": "https://bxtest.dfa-media.ru/udachny/grudka.png",
             "price": 855,
             "sale_price": null,
             "unit":0,
@@ -28,7 +28,7 @@
           {
             "id": 3,
             "title": "Морской окунь филе на коже (свежемороженый)",
-            "image": "https://drive.google.com/file/d/1BPCeLcLvhWZi1c9yMKsbRahR184riXhi/view?usp=sharing",
+            "image": "https://bxtest.dfa-media.ru/udachny/123123.png",
           "price": 579,
           "sale_price": null,
           "unit":0,
@@ -37,7 +37,7 @@
           {
             "id": 4,
             "title": "Минтай свежемороженый без головы",
-            "image": "https://drive.google.com/file/d/1SMgbqbtHseDQ5pRbDimRO16cD56p0EvZ/view?usp=sharing",
+            "image": "https://bxtest.dfa-media.ru/udachny/mintai.png",
           "price": 255,
           "sale_price": null,
           "unit":0,
@@ -46,7 +46,7 @@
           {
             "id": 5,
             "title": "Сыр Брынза из козьего молока 50%, 100 г ",
-            "image": "https://drive.google.com/file/d/1rez6U5N4Q8UZz5h0HolIv73umHsEm8AQ/view?usp=sharing",
+            "image": "https://bxtest.dfa-media.ru/udachny/cheese.png",
           "price": 290,
           "sale_price": 399,
           "unit":1,
@@ -62,7 +62,7 @@
           "date": "2023-07-19 00:00:00",
           "value": "-200p",
           "promo_code": "LETO10",
-          "background_url": "https://drive.google.com/file/d/1OLAkjNEdGPUh2WcxsCZy4U8JwLXLPzgN/view?usp=sharing"
+          "background_url": "https://bxtest.dfa-media.ru/udachny/first_sale.png"
         },
         {
             "id": 2,
@@ -70,7 +70,7 @@
             "date": "2023-07-22 00:00:00",
             "value": "-300р",
             "promo_code": "EDEMZAGOROD23",
-            "background_url": "https://drive.google.com/file/d/1e6dGm-4_Dbfq6dSvyBChCB7QmNgC3bWC/view?usp=sharing"
+            "background_url": "https://bxtest.dfa-media.ru/udachny/coupon_fresh.png"
           },
           {
             "id": 2,
@@ -78,7 +78,7 @@
             "date": "2023-08-01 00:00:00",
             "value": "300 баллов",
             "promo_code": "SUMMER2023",
-            "background_url": "https://drive.google.com/file/d/1QnrM8BODBUGgFwpNTDXwkKJtpAQyHXM0/view?usp=sharing"
+            "background_url": "https://bxtest.dfa-media.ru/udachny/300ball.png"
           }
       ],
     "story": [
