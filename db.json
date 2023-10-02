@@ -1,14 +1,38 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "Banners": [
+        {
+          "id": 0,
+          "image": "",
+          "link": ""
+        }
+      ],
+    "products": [
+        {
+          "id": 0,
+          "title": "",
+          "image": "",
+          "price": 1200,
+          "sale_price": null
+        }
+      ],
+    "sales": [
+        {
+          "id": 0,
+          "title": "На первую покупку",
+          "date": "1900-01-01 00:00:00",
+          "value": "-200p",
+          "promo_code": "LETO10"
+        }
+      ],
+    "story": [
+        {
+          "id": 0,
+          "image": "",
+          "viewed": true,
+          "is_bookmark": true,
+          "align": "center",
+          "link": "link",
+          "_comment": "align: top, bottom, center"
+        }
+      ]
   }
