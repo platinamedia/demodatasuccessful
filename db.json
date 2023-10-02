@@ -8,21 +8,60 @@
       ],
     "products": [
         {
-          "id": 0,
-          "title": "",
-          "image": "",
-          "price": 1200,
-          "sale_price": null
-        }
+          "id": 1,
+          "title": "Стейк тунца свежемороженый (упаковка 500 г)",
+          "image": "https://drive.google.com/file/d/1bvutEPhNy4u9CCFsmt7N-ojxLpiUxBPX/view",
+          "price": 290,
+          "sale_price": 390,
+          "unit":1,
+          "unit_text":"шт"
+        },
+        {
+            "id": 2,
+            "title": "Грудка индейки фермерская СВ «Мясная...",
+            "image": "https://drive.google.com/file/d/1Xsul-PJCSOiSfwiysN4UN3--DunfsuJH/view?usp=drive_link",
+            "price": 855,
+            "sale_price": null,
+            "unit":0,
+            "unit_text":"кг"
+          },
+          {
+            "id": 3,
+            "title": "Морской окунь филе на коже (свежемороженый)",
+            "image": "https://drive.google.com/file/d/1BPCeLcLvhWZi1c9yMKsbRahR184riXhi/view?usp=sharing",
+          "price": 579,
+          "sale_price": null,
+          "unit":0,
+          "unit_text":"кг"
+          }
+
+        
       ],
     "sales": [
         {
-          "id": 0,
+          "id": 1,
           "title": "На первую покупку",
-          "date": "1900-01-01 00:00:00",
+          "date": "2023-07-19 00:00:00",
           "value": "-200p",
-          "promo_code": "LETO10"
-        }
+          "promo_code": "LETO10",
+          "background_url": "https://drive.google.com/file/d/1OLAkjNEdGPUh2WcxsCZy4U8JwLXLPzgN/view?usp=sharing"
+        },
+        {
+            "id": 2,
+            "title": "Скидка на свежее мясо и товары для шашлыка",
+            "date": "2023-07-22 00:00:00",
+            "value": "-300р",
+            "promo_code": "EDEMZAGOROD23",
+            "background_url": "https://drive.google.com/file/d/1e6dGm-4_Dbfq6dSvyBChCB7QmNgC3bWC/view?usp=sharing"
+          },
+          {
+            "id": 2,
+            "title": "300 баллов на карту при покупке Сыра Эмменталь",
+            "date": "2023-08-01 00:00:00",
+            "value": "300 баллов",
+            "promo_code": "SUMMER2023",
+            "background_url": "https://drive.google.com/file/d/1QnrM8BODBUGgFwpNTDXwkKJtpAQyHXM0/view?usp=sharing"
+          }
       ],
     "story": [
         {
