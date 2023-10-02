@@ -1,29 +1,5 @@
 {
-    "banners": [
-        {
-          "id": 0,
-          "image": "",
-          "link": ""
-        }
-      ],
-    "products": [
-        {
-          "id": 0,
-          "title": "",
-          "image": "",
-          "price": 1200,
-          "sale_price": null
-        }
-      ],
-    "sales": [
-        {
-          "id": 0,
-          "title": "На первую покупку",
-          "date": "1900-01-01 00:00:00",
-          "value": "-200p",
-          "promo_code": "LETO10"
-        }
-      ],
+   
     "story": [
         {
           "id": 0,
